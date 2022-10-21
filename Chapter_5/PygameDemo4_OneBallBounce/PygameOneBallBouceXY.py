@@ -20,7 +20,7 @@ window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 clock = pygame.time.Clock()
  
 # 4 - Load assets: image(s), sound(s),  etc.
-ballImage = pygame.image.load('images/ball.png')
+ballImage = pygame.image.load('Chapter_5/PygameDemo4_OneBallBounce/images/ball.png')
 
 # 5 - Initialize variables
 MAX_WIDTH = WINDOW_WIDTH - BALL_WIDTH_HEIGHT
